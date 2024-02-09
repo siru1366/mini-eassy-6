@@ -4,7 +4,7 @@ title: "Letting the Data Speak: Navigating Bias and Complexity in Data Analysis 
 author: 
   - Sirui Tan
   
-thanks: "Code and data are available at: https://github.com/siru1366/mini-eassy-6.git."
+thanks: "Code and data are available at: https://github.com/siru1366/mini-eassy-6.git.Thanks for Song Ping's peer review!"
 date: 9 Febuary,2024
 date-format: long
 abstract: "In the contemporary landscape of big data and artificial intelligence, the concept of letting the data speak for themselves has garnered significant attention. However, this notion is accompanied by challenges related to biases and subjective interpretations inherent in data analysis. By critically examining the works of Jordan (2019), D’Ignazio and Klein (2020), Au (2020), and others, this paper seeks to elucidate the complexities surrounding data interpretation and advocate for interdisciplinary collaboration and ethical data practices to navigate these challenges effectively."
@@ -12,7 +12,7 @@ format: pdf
 number-sections: true
 bibliography: references.bib
 ---
-
+Thanks for Song Ping's peer review!
 
 
 # Introduction
